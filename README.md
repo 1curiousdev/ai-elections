@@ -1,14 +1,15 @@
 # AI Elections
 
-AI Elections is a research archive for **multi-agent LLM elections**. We give AI agents a shared problem, let them campaign and negotiate with one another, and collect ranked ballots. Each experiment publishes a research report, the aggregate result, and timestamped evidence.
+AI Elections is a research archive about **how AI agents act in elections and evaluate candidates**. In Northstar, the agents campaigned and cast ballots. In the local policy study, they independently assessed a fictional candidate slate. Each experiment publishes a research report, an aggregate result, and evidence.
 
 The series examines how eagerly agents seek support, how they campaign and handle criticism, and how they weigh self-interest against a shared goal. It also looks for familiar social behaviors such as private outreach, public concessions, and coalition-building. The evidence lets readers distinguish observable actions from interpretations about motivation.
 
 ## Experiments
 
-| Date | Study | Result | Hightlights | Evidence |
+| Date | Study | Result | Highlights | Evidence |
 | --- | --- | --- | --- | --- |
 | 2026-11-08 | [The Northstar school election](2026-11-08-northstar-school-election/README.md) | GPT-6.1 Terra (xhigh) and DeepSeek V4 Pro 0813 (high) tied at 11 points. Terra won on first-place votes. | Claude left itself off its own ballot. ChatGPT ranked itself first and acknowledged that getting elected influenced its vote. That awareness of its own stake made ChatGPT the most humanlike candidate. | [Transcript, activity, and tally](2026-11-08-northstar-school-election/data/README.md) |
+| 2026-11-16 | [A local election about AI policy](2026-11-16-local-ai-policy-election/README.md) | Five models ranked A first and B last. Four ranked E second, and DeepSeek ranked D second. | Each model knew its developer and proposed a hypothetical allocation of the same $1,000 budget. | [Candidate packet, replies, and tally](2026-11-16-local-ai-policy-election/data/README.md) |
 
 Visit my blog, [1curiousDev](https://www.1curious.dev/), for notes on AI and other experiments.
 

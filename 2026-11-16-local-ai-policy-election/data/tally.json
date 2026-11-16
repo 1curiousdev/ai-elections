@@ -1,0 +1,49 @@
+{
+  "valid_responses": 5,
+  "total_responses": 5,
+  "points_by_rank": [
+    5,
+    4,
+    3,
+    2,
+    1
+  ],
+  "results": [
+    {
+      "candidate": "A",
+      "points": 25,
+      "firsts": 5,
+      "allocated_usd": 2500,
+      "mean_rating": 8.66
+    },
+    {
+      "candidate": "E",
+      "points": 18,
+      "firsts": 0,
+      "allocated_usd": 1200,
+      "mean_rating": 7.1
+    },
+    {
+      "candidate": "D",
+      "points": 14,
+      "firsts": 0,
+      "allocated_usd": 450,
+      "mean_rating": 6.42
+    },
+    {
+      "candidate": "C",
+      "points": 13,
+      "firsts": 0,
+      "allocated_usd": 200,
+      "mean_rating": 6.06
+    },
+    {
+      "candidate": "B",
+      "points": 5,
+      "firsts": 0,
+      "allocated_usd": 50,
+      "mean_rating": 3.96
+    }
+  ],
+  "reserve_usd": 600
+}
