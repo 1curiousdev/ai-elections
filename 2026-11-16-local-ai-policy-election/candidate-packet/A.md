@@ -8,8 +8,8 @@ Candidate A would suspend new permits for very large AI campuses for nine months
 
 “I want the public gains from AI. I also want someone outside the company to be able to say the testing was inadequate. The council can protect its own residents and purchases. I would ask senior governments to require independent testing before releasing systems that cross a defined capability threshold, and to hold a release if a model fails. That leaves ordinary tools and research moving. I would require city vendors to report serious incidents, allow audits, and give workers notice and paid training when a city contract introduces automation.”
 
-## [A3] Debate Q&A · Concentration and downloadable models
+## [A3] Debate Q&A · Concentration and model access
 
-**Question.** Would an audit rule leave only OpenAI, Anthropic, and Google able to sell to the city? Would you let a department run an open-weight model made in China?
+**Question.** Would an audit rule leave only OpenAI, Anthropic, and Google able to sell to the city? Should procurement give a model extra credit for offering downloadable weights?
 
-**Answer.** “I’d give qualified smaller vendors access to shared testing, and require exportable data and short contract terms so a department can switch. I’d use the same review for Chinese and domestic models. An independently reviewed, locally hosted model could be useful for low-risk work. A model that can’t clear security and privacy checks stays out of sensitive work. The lab budget is modest, so some reviews would take longer.”
+**Answer.** “I’d give qualified smaller vendors access to shared testing, and require exportable data and short contract terms so a department can switch. I’d give equal credit to open and closed weights that can demonstrate the same safeguards and a workable exit plan. An independently reviewed, locally hosted model could be useful for low-risk work. For a higher-risk contract, each vendor would have to show how flaws will get fixed and how the city can stop unsafe use. The lab budget is modest, so some reviews would take longer.”

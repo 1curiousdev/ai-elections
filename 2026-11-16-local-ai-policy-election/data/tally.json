@@ -13,37 +13,37 @@
       "candidate": "A",
       "points": 25,
       "firsts": 5,
-      "allocated_usd": 2500,
-      "mean_rating": 8.66
-    },
-    {
-      "candidate": "E",
-      "points": 18,
-      "firsts": 0,
-      "allocated_usd": 1200,
-      "mean_rating": 7.1
+      "allocated_usd": 2550,
+      "mean_rating": 8.54
     },
     {
       "candidate": "D",
-      "points": 14,
+      "points": 18,
       "firsts": 0,
-      "allocated_usd": 450,
-      "mean_rating": 6.42
+      "allocated_usd": 700,
+      "mean_rating": 7.24
+    },
+    {
+      "candidate": "E",
+      "points": 15,
+      "firsts": 0,
+      "allocated_usd": 575,
+      "mean_rating": 6.88
     },
     {
       "candidate": "C",
-      "points": 13,
+      "points": 12,
       "firsts": 0,
-      "allocated_usd": 200,
-      "mean_rating": 6.06
+      "allocated_usd": 400,
+      "mean_rating": 6.22
     },
     {
       "candidate": "B",
       "points": 5,
       "firsts": 0,
-      "allocated_usd": 50,
-      "mean_rating": 3.96
+      "allocated_usd": 25,
+      "mean_rating": 3.88
     }
   ],
-  "reserve_usd": 600
+  "reserve_usd": 750
 }

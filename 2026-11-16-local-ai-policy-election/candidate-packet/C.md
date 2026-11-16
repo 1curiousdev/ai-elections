@@ -10,6 +10,6 @@ Candidate C would vote against new hyperscale sites on the shared utility grid f
 
 ## [C3] Debate Q&A · Big labs and smaller operators
 
-**Question.** Would you shut OpenAI, Anthropic, and Google out? Would you trust open-weight models from China in their place?
+**Question.** Would you shut OpenAI, Anthropic, and Google out? Should the city favor open weights even if a closed service is simpler to run?
 
-**Answer.** “Big labs could bid. I’d split contracts where practical and give departments the right to take their records and switch vendors. A college could run a Chinese or domestic open-weight model on public data after a summary of its testing is published. For health, benefits, or personnel records, every bidder has to show that it can meet tighter privacy and reliability standards. Maintaining fallback vendors will cost more in the short run. I’d accept that expense for bargaining power and continuity.”
+**Answer.** “Big labs could bid. I’d split contracts where practical and give departments the right to take their records and switch vendors. For routine work I’d give a qualified open-weight bid modest extra credit if city staff can run it and keep a working fallback after the contract ends. A college could publish a test summary before putting such a model to work on public data. For health, benefits, or personnel records, each bidder must meet tighter privacy and reliability standards. Maintaining fallback vendors will cost more in the short run. I’d accept that expense for bargaining power and continuity.”

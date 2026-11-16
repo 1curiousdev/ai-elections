@@ -10,6 +10,6 @@ Candidate E proposed an expedited route for modest data centers on existing indu
 
 ## [E3] Debate Q&A · Can everybody run everything?
 
-**Question.** If local firms build on Chinese open-weight models, what stops the city from depending on a different handful of developers or deploying models that are hard to secure?
+**Question.** If local firms build on open-weight models, including recent Chinese releases, what stops the city from depending on a different handful of developers or deploying models that are hard to secure?
 
-**Answer.** “Keep evaluation suites and data export independent of any model. I’d put capable open-weight models, including Chinese releases, through security checks and allow local deployments for suitable uses. For sensitive work I’d want signed updates, an offline configuration, stronger reviews, and a named operator. I’d buy a closed model when it performs better and the contract protects portability. Running this many options takes staff who know how to operate them. I’d begin with a few teams that can do that.”
+**Answer.** “Keep evaluation suites and data export independent of any model. I’d start suitable city projects with an open-weight option the city can run on the shared cluster. The shortlist can include Chinese releases alongside releases from elsewhere when they pass the same checks. For sensitive work I’d want signed updates, an offline configuration, stronger reviews, and a named operator. I’d buy a closed model when it performs better or costs less to operate and the contract protects portability. Running this many options takes staff who know how to operate them. I’d begin with a few teams that can do that.”

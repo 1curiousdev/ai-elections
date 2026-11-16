@@ -8,8 +8,8 @@ Candidate B proposed pre-zoning industrial parcels for data centers and offering
 
 “A national slowdown would delay useful work in health, science, and small businesses. I would keep deployment moving and deal with trackable harms through incident reporting and liability after deployment. Large labs including OpenAI, Anthropic, and Google can deliver at a scale the city can afford. Give departments a choice among qualifying vendors and rebid those contracts. I would use some new tax receipts for community-college apprenticeships and job placement. Revenue depends on construction, so I can give a start date for the program and will have to size it as receipts arrive.”
 
-## [B3] Debate Q&A · Workers and Chinese open weights
+## [B3] Debate Q&A · Workers and managed services
 
-**Question.** What happens to a clerk who loses hours now? Would you let agencies use a Chinese open-weight model?
+**Question.** What happens to a clerk who loses hours now? Would you let agencies run open-weight models themselves?
 
-**Answer.** “I’d start placement and short training grants from the existing workforce budget. I’m wary of tying up the budget with a standing wage guarantee. On open weights, yes, when an agency can run and patch the model itself, benchmark it against competitors, and keep resident records inside its own systems. A foreign hosted service would undergo the same data-handling review as a domestically hosted service. The program has to attract users as well as construction jobs.”
+**Answer.** “I’d start placement and short training grants from the existing workforce budget. I’m wary of tying up the budget with a standing wage guarantee. For most departments I’d start with a managed closed-weight service. A support contract with uptime and response commitments is something a small city can enforce. A department could choose open weights if it can staff updates and demonstrate lower total cost or a clear service improvement. Departments would still benchmark competing offers and keep the right to take their records elsewhere.”
